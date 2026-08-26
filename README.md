@@ -1,30 +1,30 @@
-\# CSC 441 — \[Ghita Hajjari]
+# CSC 441 — \[Ghita Hajjari]
 
-\## About me
+## About me
 
-\- \*\*Major:\*\* Computer science
+- **Major:** Computer science
 
-\- \*\*Year:\*\* 2026
+- **Year:** 2026
 
-\- \*\*What I want to build:\*\* (Android apps / iOS apps / websites / backend — or "still deciding") websites
+- **What I want to build:** (Android apps / iOS apps / websites / backend — or "still deciding") websites
 
-\## What I'm hoping to learn this semester
+## What I'm hoping to learn this semester
 
 Be able to build websites that people can use
 
 
 
-\## My setup
+## My setup
 
-\- \*\*Computer:\*\* (Mac / Windows) Windows
+- **Computer:** (Mac / Windows) Windows
 
-\- \*\*GitHub username:\*\* ghitahajjari
+- **GitHub username:** ghitahajjari
 
-\- \*\*Git installed:\*\* yes
+- **Git installed:** yes
 
-\## Notes to future me
+## Notes to future me
 
 Things I got stuck on, so I don't get stuck again:
 
-\-How to navigate the file and find it
+-How to navigate the file and find it
 
