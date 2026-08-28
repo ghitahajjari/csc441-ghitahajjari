@@ -24,7 +24,7 @@ Things I got stuck on, so I don't get stuck again:
 
 \-How to navigate the file and find it
 
-
+\-How to verify if it was pushed to github
 
 \## Terminal commands I learned
 
