@@ -26,7 +26,7 @@ Things I got stuck on, so I don't get stuck again:
 
 \-How to verify if it was pushed to github
 
-\## Terminal commands I learned
+## Terminal commands I learned
 
 \- pwd
 
