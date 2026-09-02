@@ -50,3 +50,13 @@ Things I got stuck on, so I don't get stuck again:
 
 
 
+### Tools I have installed
+
+\- \[ ] Git
+
+\- \[ ] IntelliJ IDEA Community Edition
+
+\- \[ ] Android Studio
+
+\- \[ ] VS Code
+
