@@ -36,3 +36,11 @@ Things I got stuck on, so I don't get stuck again:
 
 \- mkdir
 
+### My goals for this course:
+
+\-learn different terminal commands
+
+\-learn about GitHub
+
+\-be able to creat a website
+
