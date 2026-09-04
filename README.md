@@ -62,5 +62,7 @@ Things I got stuck on, so I don't get stuck again:
 
 
 
-Just getting started.
+\## Status
+
+Working through branches. Slightly confused but getting there.
 
