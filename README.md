@@ -62,7 +62,5 @@ Things I got stuck on, so I don't get stuck again:
 
 
 
-\## Status
-
-Learning Git and feeling good about it.
-
+## Status
+Learning Git. Branches make sense now; merge conflicts are next.
