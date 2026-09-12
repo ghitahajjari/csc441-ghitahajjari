@@ -12,7 +12,7 @@ fun main() {
     println()
 
 
-    val tripList = mutableListOf("Clothes", "Shoes", "Passport", "Toothbrush", "Computer")
+    val tripList = mutableListOf("Clothes", "Shoes", "Passport", "Toothbrush", "Computer", "Charger")
     println("List with plain for:")
     for (item in tripList) {
         println(item)
