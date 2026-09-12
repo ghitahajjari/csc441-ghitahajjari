@@ -13,14 +13,15 @@ fun main() {
 
 
     val tripList = mutableListOf("Clothes", "Shoes", "Passport", "Toothbrush", "Computer")
+    println("List with plain for:")
     for (item in tripList) {
         println(item)
     }
-
+    println("List with forEachIndexed:")
     tripList.forEachIndexed { index, item ->
         println("$index is $item")
     }
-
+    println("List using until:")
     for (i in 0 until tripList.size) {
         println("$i: ${tripList[i]}")
     }
