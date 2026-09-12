@@ -39,7 +39,7 @@ fun main() {
     }
 
 
-    val number = 39
-    val threshold = if (number > 29) "Expensive" else "Cheap"
+    val weight = 39
+    val threshold = if (weight > 23) "Too much" else "Perfect"
     println(threshold)
 }
