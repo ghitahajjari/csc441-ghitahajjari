@@ -38,7 +38,6 @@ fun main() {
         else -> println("Invalid number of days.")
     }
 
-
     val weight = 39
     val threshold = if (weight > 23) "Too much" else "Perfect"
     println(threshold)
