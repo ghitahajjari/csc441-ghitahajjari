@@ -35,5 +35,4 @@ fun main() {
     print("What is your name? ")
     val yourName = readlnOrNull()
     println("Hello, $yourName")
-
 }
