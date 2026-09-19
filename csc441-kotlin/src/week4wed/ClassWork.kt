@@ -22,8 +22,6 @@ fun main(){
     println(todaysExercise5(2, "Ghita"))
     println(todaysExercise5(name = "Sam"))
 
-    println("Step 7 --  --")
-
 
 }
 
